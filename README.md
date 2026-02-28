@@ -8,6 +8,7 @@ A 4WD autonomous robot car built with an Arduino Uno R3 that uses an ultrasonic 
 
 This robot continuously moves forward while scanning for obstacles. When an object is detected within a set distance, the car stops, backs up, looks left and right using a servo-mounted sensor, and then turns toward the clearer path — all without any human input.
 
+![Banner](obstacleavoiding.png)
 ---
 
 ## 🛒 Components Used
